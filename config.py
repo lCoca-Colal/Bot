@@ -1,3 +1,3 @@
-token = '5909156710:AAEuD32uoXIX9K5SZlHocyb4zNHJWc8UfTc'
+token = ' '
 
-user_id = 851194566
+user_id = 123456789
